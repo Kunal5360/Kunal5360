@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Kunal5360
-- 👀 I’m interested in learning C,C++,Java
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning Web Devlopment
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 1. www.linkedin.com/in/
+kunalnagdawane
+
+
 
 <!---
 Kunal5360/Kunal5360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
