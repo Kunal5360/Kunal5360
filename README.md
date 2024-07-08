@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--  www.linkedin.com/in/
-kunalnagdawane
+-  https://www.linkedin.com/in/kunalnagdawane/
 
 
 
