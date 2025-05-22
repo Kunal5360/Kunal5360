@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kunal5360
-- 👀 I’m interested in learning Web Devlopment
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a Data Engineer at Cognizant
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -  https://www.linkedin.com/in/kunalnagdawane/
